@@ -2,7 +2,7 @@
 
 这里随便记点东西，有错误希望能指出，谢谢。    
 
-你也可以点击这里 [杂记](http://huahua-chen.coding.me)
+你也可以点击这里 [blog](http://huahua-chen.coding.me)
 
 ### CSS
 
