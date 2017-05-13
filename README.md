@@ -13,4 +13,8 @@
 
 1. [初识gulp](https://github.com/Huahua-Chen/blog/issues/1)
 
+### 杂记
+
+1. [算法排序](https://github.com/Huahua-Chen/blog/issues/3)
+
 
