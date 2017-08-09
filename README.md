@@ -16,8 +16,13 @@
 
 1. [初识gulp](https://github.com/Huahua-Chen/blog/issues/1)
 
+### Vue
+
+1. [监测一个对象的变化](https://github.com/Huahua-Chen/learningVue/issues/1)
+
 ### essay
 
 1. [算法排序](https://github.com/Huahua-Chen/blog/issues/3)
+
 
 
