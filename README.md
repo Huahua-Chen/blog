@@ -25,4 +25,8 @@
 1. [算法排序](https://github.com/Huahua-Chen/blog/issues/3)
 
 
+### 设计模式
+
+1. [单例模式 Singleton](https://github.com/Huahua-Chen/blog/issues/5)
+
 
