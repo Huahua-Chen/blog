@@ -28,5 +28,5 @@
 ### 设计模式
 
 1. [单例模式 Singleton](https://github.com/Huahua-Chen/blog/issues/5)
-
+2. [工厂模式](https://github.com/Huahua-Chen/blog/issues/6)
 
